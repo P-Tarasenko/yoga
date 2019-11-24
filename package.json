@@ -4,6 +4,16 @@
   "description": "",
   "devDependencies": {
     "@htmlacademy/editorconfig-cli": "1.x",
+    "autoprefixer": "^9.7.2",
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-csso": "^4.0.1",
+    "gulp-less": "^4.0.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.5",
     "stylelint": "10.1.x",
     "stylelint-config-htmlacademy": "0.1.x"
   },
